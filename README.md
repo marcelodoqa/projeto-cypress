@@ -12,9 +12,6 @@
 
 ✅ pipeline CI/CD
 
-✅ utilização de commands e locators
-
-✅ documentação (Casos de testes e Evidências)
 
 <br>
 <div style="border: 1px solid #ccc; padding: 10px;">
@@ -29,7 +26,6 @@ construindo..
 - Node.js
 - Visual Studio Code
 - Cypress 12.13.0
-- Mochawesome
 - DevTools
 </div>
 
